@@ -1,0 +1,5 @@
+train: 'F:/Python/Apex/yolov5-7.0/data/apexData/dataSet/train.txt'
+val: 'F:/Python/Apex/yolov5-7.0/data/apexData/dataSet/val.txt'
+
+nc: 1
+names: ['person']
